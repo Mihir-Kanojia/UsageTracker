@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "760565497552",
+    "project_id": "usage-tracker-9981a",
+    "storage_bucket": "usage-tracker-9981a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760565497552:android:adb28a4eefd0adaf7e68d5",
+        "android_client_info": {
+          "package_name": "com.example.usagetracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760565497552-43rhqthhu958nn84sbp0e2u3oeoi24ge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnxXyC4k-KK2Fyr_ZbwhJMOgESB6Pouwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760565497552-43rhqthhu958nn84sbp0e2u3oeoi24ge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
